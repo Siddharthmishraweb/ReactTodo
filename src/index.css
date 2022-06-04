@@ -1,0 +1,7 @@
+html{
+  /* background-color: aqua; */
+  background-image: linear-gradient(to right, orange, white);
+}
+body{
+  background-image: linear-gradient(to right, orange, white);
+}

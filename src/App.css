@@ -1,0 +1,13 @@
+.container{
+  /* background-color:grey; */
+ /* background-image: linear-gradient(to right,red,yellow); */
+ text-decoration: double;
+}
+
+input[type=text]{
+  background-color: black;
+}
+
+.listr{
+  list-style-type: none;
+}
